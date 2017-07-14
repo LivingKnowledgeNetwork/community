@@ -1,8 +1,9 @@
 # community
-Links to community discussions  (to add link submit pull requrest)
+
+Links to community discussions  (to add link submit pull request)
 ==============================
 
-Collaboration ethos https://docs.google.com/document/d/1xFs83-xVqlPJhRqCuN6bzS-bb7-k2b1cpGlrONnVhqk/edit
+Collaboration ethos https://docs.google.com/document/d/1xFs83-xVqlPJhRqCuN6bzS-bb7-k2b1cpGlrONnVhqk/edit
 
 Living Knowledge Network introduction https://docs.google.com/presentation/d/1y9lTlxm7suqoQ4BYEOKU_HAYd3MN7ImMNptpgqr0iVA/edit#slide=id.p
 
@@ -18,7 +19,7 @@ Technical Modular Protocol Introduction https://docs.google.com/presentation/d/1
 
 Decentralized sampling https://youtu.be/kfgbtIHAGrY
 
-Decentralized commpute https://youtu.be/V3zlQ7xksiE
+Decentralized computation https://youtu.be/V3zlQ7xksiE
 
 -------------------------------------------
 
