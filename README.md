@@ -17,6 +17,10 @@ Technical
 
 Technical Modular Protocol Introduction https://docs.google.com/presentation/d/14kBRX4j9JbODtD_Lff6ZIWVdq1a9JWL3aJpLWN85xj4/edit?usp=sharing
 
+Guardian Coll https://docs.google.com/document/d/1zNqQcRk-y5XdoxF3_sGERQyR_pVZ4SpW64hxh91nmbI/edit?usp=sharing
+
+Resolution Wallet https://docs.google.com/document/d/1Lf0lOn9CFRW1vW0IFcAUhWpPPZp1rI0RFh6q_KRcwJ8/edit?usp=sharing
+
 Decentralized sampling https://youtu.be/kfgbtIHAGrY
 
 Decentralized computation https://youtu.be/V3zlQ7xksiE
