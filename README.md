@@ -3,12 +3,11 @@
 Links to community discussions  (to add link submit pull request)
 ==============================
 
-Collaboration ethos https://docs.google.com/document/d/1xFs83-xVqlPJhRqCuN6bzS-bb7-k2b1cpGlrONnVhqk/edit
-
-Living Knowledge Network introduction https://docs.google.com/presentation/d/1y9lTlxm7suqoQ4BYEOKU_HAYd3MN7ImMNptpgqr0iVA/edit#slide=id.p
+Living Knowledge Network introduction https://docs.google.com/document/d/1d8pVJfQmggg2Fkb89g6j0zp6JACEc9Bg97HIpJmvJBg/edit?usp=sharing
 
 Living Research Paper  https://docs.google.com/document/d/1Uhjb4K69l0bSx7UXYUStV_rjuPC7VGo0ERa-7xEsr58/edit
 
+Collaboration ethos https://docs.google.com/document/d/1xFs83-xVqlPJhRqCuN6bzS-bb7-k2b1cpGlrONnVhqk/edit
 
 ------------------------------------------
 
