@@ -3,7 +3,6 @@
 Links to community discussions  (to add link submit pull request)
 ==============================
 
-<<<<<<< HEAD
 - Organisers of community meetups, workshops and hackathons.
 - Use case champions
 
