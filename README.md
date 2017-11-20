@@ -39,7 +39,7 @@ Decentralized computation https://youtu.be/V3zlQ7xksiE
 Community thinking
 ==================
 
-Foundation https://docs.google.com/document/d/1Tyy8g0OwvKwoI77YG-x8_Vnwt9dy1x03zZJtEYBsYPw/edit?usp=sharing
+Foundation https://docs.google.com/document/d/1d8pVJfQmggg2Fkb89g6j0zp6JACEc9Bg97HIpJmvJBg/edit?usp=sharing
 
 
 ------------------------------------------
